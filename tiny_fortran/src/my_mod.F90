@@ -5,7 +5,7 @@ CONTAINS
 
 SUBROUTINE mod_func ()
 
-    INTEGER :: foo = 1
+    INTEGER :: foo = 2
     PRINT *, foo
 
 END SUBROUTINE mod_func
